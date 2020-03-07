@@ -2,7 +2,6 @@ package tokenring;
 
 /**
  * Token
- * @author Vincenzo Cavallo, Malamine Liviano D’Arcangelo Koumare
  */
 
 public class Token {

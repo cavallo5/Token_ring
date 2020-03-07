@@ -2,7 +2,6 @@ package tokenring;
 
 /**
  * TokenRing 
- * @author Vincenzo Cavallo, Malamine Liviano D’Arcangelo Koumare
  */
 
 import java.io.IOException;

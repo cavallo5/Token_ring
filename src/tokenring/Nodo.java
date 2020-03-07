@@ -2,7 +2,6 @@ package tokenring;
 
 /**
  * Nodo
- * @author Vincenzo Cavallo, Malamine Liviano D’Arcangelo Koumare
  */
 
 import java.io.*;
