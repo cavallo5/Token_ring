@@ -1,1 +1,1 @@
-# Token_ring-Java
+# Token_ring
